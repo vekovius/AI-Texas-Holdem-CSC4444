@@ -192,10 +192,10 @@ python3 test_server.py
 
 Output:
 ```
-📂 Loading hands from: historical_logs/sample_real_hands.jsonl
-✅ Loaded 8 hands
+- Loading hands from: historical_logs/sample_real_hands.jsonl
+- Loaded 8 hands
 ============================================================
-🎰  Poker Test Server - Historical Hand Replay  🎰
+-  Poker Test Server - Historical Hand Replay  -
 ============================================================
 
 Replaying 8 hands from real poker history
