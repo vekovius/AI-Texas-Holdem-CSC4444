@@ -103,7 +103,7 @@ AI-Texas-Holdem-CSC4444/
 - [COMPETITION_ANALYSIS.md](COMPETITION_ANALYSIS.md) - Competition strategy
 - [IMPLEMENTATION_GUIDE.md](IMPLEMENTATION_GUIDE.md) - Universal opponent detection
 - [TOURNAMENT_MATH.md](TOURNAMENT_MATH.md) - Poker math reference
-- Additional docs in [docs/](docs/) directory
+- Additional docs in [docs/](docs/)
 
 ## Troubleshooting
 
