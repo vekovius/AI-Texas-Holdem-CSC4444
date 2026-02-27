@@ -1,6 +1,6 @@
 # Texas Hold'em Bot
 
-A No-Limit Poker bot for Texas Hold'em tournaments with advanced decision-making, hand evaluation, and opponent modeling.
+A No-Limit Poker bot with advanced decision-making, hand evaluation, and opponent modeling.
 
 ## Features
 - Hand strength and equity calculation
