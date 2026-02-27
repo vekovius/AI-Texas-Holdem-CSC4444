@@ -99,16 +99,3 @@ AI-Texas-Holdem-CSC4444/
 ## Documentation
 
 - docs in [docs/](docs/)
-
-## Troubleshooting
-
-- If you see connection errors, make sure the server is running first.
-- If imports fail, ensure you've installed the package: `pip install -e .`
-- To free up port 8080:
-```bash
-# macOS/Linux
-lsof -ti:8080 | xargs kill -9
-
-# Windows PowerShell
-Get-NetTCPConnection -LocalPort 8080 | ForEach-Object { Stop-Process -Id $_.OwningProcess -Force }
-```
