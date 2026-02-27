@@ -48,7 +48,7 @@ python -m poker_bot.core.bot dev table-1 bot1 ws://localhost:8080
 ```
 
 ### Competition Mode
-For comparability with the class Texas-HoldEm-Infrastructure:
+For compatibility with the class Texas-HoldEm-Infrastructure:
 ```bash
 python scripts/run_competition.py dev table-1 MyBot ws://localhost:8080
 ```
