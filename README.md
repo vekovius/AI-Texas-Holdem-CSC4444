@@ -48,7 +48,7 @@ python -m poker_bot.core.bot dev table-1 bot1 ws://localhost:8080
 ```
 
 ### Competition Mode
-For real tournaments with the Texas-HoldEm-Infrastructure:
+For comparability with the class Texas-HoldEm-Infrastructure:
 ```bash
 python scripts/run_competition.py dev table-1 MyBot ws://localhost:8080
 ```
@@ -98,12 +98,7 @@ AI-Texas-Holdem-CSC4444/
 
 ## Documentation
 
-- [ENSEMBLE_STRATEGY.md](ENSEMBLE_STRATEGY.md) - Multi-agent ensemble architecture
-- [TRAINING_GUIDE.md](TRAINING_GUIDE.md) - Training instructions and options
-- [COMPETITION_ANALYSIS.md](COMPETITION_ANALYSIS.md) - Competition strategy
-- [IMPLEMENTATION_GUIDE.md](IMPLEMENTATION_GUIDE.md) - Universal opponent detection
-- [TOURNAMENT_MATH.md](TOURNAMENT_MATH.md) - Poker math reference
-- Additional docs in [docs/](docs/)
+- docs in [docs/](docs/)
 
 ## Troubleshooting
 
